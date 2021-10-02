@@ -1,0 +1,61 @@
+img {
+  width: 100%;
+}
+.header {
+  margin: auto;
+  text-align: center;
+}
+h1 {
+  color: #333;
+}
+body {
+  background-color: #eee;
+}
+
+
+.hero {
+  background-color: #fff;
+  width: 95%;
+  margin: auto;
+}
+.hero p {
+  margin: auto;
+  text-align: center;
+}
+.content  {
+  margin: auto;
+  /* text-align: center; */
+}
+.content p{
+    text-align: center;
+}
+.content ul{
+margin: auto;
+width: 60%;
+margin-bottom: 20px;
+}
+.content ul li{
+    margin-top: 10px;
+}
+
+h4{
+    margin: auto;
+color:#333;
+    width: 60%;
+}
+h2{
+    margin: auto;
+text-align: center;
+/* color: #333; */
+color:#fff
+width: 90%;
+margin-top: 10px;
+}
+
+
+
+
+
+
+
+
